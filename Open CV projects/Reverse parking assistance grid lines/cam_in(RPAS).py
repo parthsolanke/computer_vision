@@ -4,7 +4,9 @@ vid = cv2.VideoCapture(0)
 
 while(True):
  ret, frame = vid.read()
- # Display the resulting frame
+ 
+ if not ret:
+   break
  
  # GREEN
  # Vertical
