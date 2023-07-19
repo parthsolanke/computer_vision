@@ -1,4 +1,6 @@
 # Computer Vision
+[!image_arr](image.png)
+
 This repository comprises some of the fundamental concepts of OpenCV and computer vision projects, ranging from basic to advanced topics.
 
 1. The [Basics OpenCV](https://github.com/parthsolanke/computer_vision/tree/main/Basics%20Open%20CV) folder provides an introduction to OpenCV library.
