@@ -1,5 +1,5 @@
 # Computer Vision
-[!image_arr](image.png)
+![image_arr](image.png)
 
 This repository comprises some of the fundamental concepts of OpenCV and computer vision projects, ranging from basic to advanced topics.
 
