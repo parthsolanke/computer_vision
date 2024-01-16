@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>img17_jpg.rf.038ab651d01f224fedaa52fe6120f79f.jpg</filename>
+	<path>img17_jpg.rf.038ab651d01f224fedaa52fe6120f79f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>141</xmin>
+			<xmax>432</xmax>
+			<ymin>31</ymin>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>
